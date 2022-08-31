@@ -1,1 +1,1 @@
-# adblocker-syed
+# Ad blocker extension for chrome
